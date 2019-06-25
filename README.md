@@ -1,6 +1,6 @@
 # getSINSbootstrap
 
-*A simple bash script for downloading SafeInsure (SINS) bootstrap from Google Drive on a Debian-based Linux distro such as Ubuntu for faster syncing.*
+*A simple bash script for downloading SafeInsure (SINS) bootstrap from Google Drive for faster syncing on a Debian-based Linux distro such as Ubuntu.*
 
 ## Instructions
 
