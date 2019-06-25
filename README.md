@@ -8,7 +8,7 @@ Navigate to your SINS data directory:
 `cd ~/.safeinsure`
 
 Download script:
-`wget https://github.com/deadthings/getsinsbootstrap/blob/master/getsinsbootstrap.sh`
+`wget https://raw.githubusercontent.com/deadthings/getsinsbootstrap/master/getsinsbootstrap.sh`
 
 Make script executable:
 `chmod +x getsinsbootstrap.sh`
